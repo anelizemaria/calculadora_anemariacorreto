@@ -19,7 +19,7 @@
      padding: 15px;
      font-size: 20px;
 }
-.botão{
+.botao{
 width: 50px;
 height: 30px;
 margin: 3px;
@@ -29,7 +29,7 @@ background-color: grey;
 border:none;
 color: black;
 }
-.botão:hover{
+.botao:hover{
 background-color: black;
 color: white;
 }
